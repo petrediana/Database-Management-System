@@ -1,2 +1,2 @@
 # Database-Management-System
-SGBD PL\SQL Labs &amp; Others
+SGBD Labs
